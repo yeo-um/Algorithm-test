@@ -18,4 +18,4 @@ else:
     else:
         print(str(hour-1)+' '+str(minute+15))
 
-#깃허브 테스트
+#깃허브 테스트2
