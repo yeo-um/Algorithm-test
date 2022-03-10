@@ -16,6 +16,5 @@ else:
     if hour==0:
         print('23'+' '+str(minute+15))
     else:
-        print(str(hour-1)+' '+str(minute+15))
 
 #깃허브 테스트2
