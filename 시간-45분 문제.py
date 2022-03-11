@@ -17,5 +17,5 @@ else:
         print('23'+' '+str(minute+15))
     else:
         print(str(hour-1)+' '+str(minute+15))
-
+#순원이의 조언
 #깃허브 테스트2
